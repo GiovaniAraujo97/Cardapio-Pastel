@@ -78,10 +78,10 @@ function updateCartModal(){
                 </div>
 
                     <button class=" add-from-cart-btn" data-name="${item.name}">
-                        <i class="fa-solid fa-plus" ></i>
+                        Adicionar
                     </button>
                     <button class="remove-from-cart-btn" data-name="${item.name}">
-                        <i class="fa-solid fa-trash-can"></i>
+                        Remover
                     </button>
             </div>
             `
